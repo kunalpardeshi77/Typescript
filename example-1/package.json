@@ -1,0 +1,22 @@
+{
+  "name": "typescript-example-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunalpardeshi77/Typescript.git"
+  },
+  "author": "kunal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunalpardeshi77/Typescript/issues"
+  },
+  "homepage": "https://github.com/kunalpardeshi77/Typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
