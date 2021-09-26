@@ -1,0 +1,15 @@
+{
+  "name": "example-3",
+  "version": "1.0.0",
+  "description": "string, boolean, number and type inference",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts",
+    "dev": "node index.js"
+  },
+  "author": "kunal",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
