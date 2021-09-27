@@ -1,0 +1,15 @@
+{
+  "name": "enum-type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts",
+    "dev": "node index.js"
+  },
+  "author": "kunal",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
