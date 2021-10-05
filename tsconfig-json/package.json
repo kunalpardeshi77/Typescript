@@ -1,0 +1,15 @@
+{
+  "name": "tsconfig-json",
+  "version": "1.0.0",
+  "description": "1. compile all  the files in one shot with tsc command",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -w",
+    "dev": "node index.js"
+  },
+  "author": "kunal pardeshi",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
