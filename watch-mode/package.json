@@ -1,0 +1,15 @@
+{
+  "name": "watch-mode",
+  "version": "1.0.0",
+  "description": "Auto compile the file on save after changes",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts -w",
+    "dev": "node index.js"
+  },
+  "author": "kunal pardeshi",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
