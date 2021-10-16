@@ -1,0 +1,15 @@
+{
+  "name": "rootdir-outdir-tsconfig",
+  "version": "1.0.0",
+  "description": "rootDir and outDir option in tsconfig.json file",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "node ./dist/index.js"
+  },
+  "author": "kunal",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
