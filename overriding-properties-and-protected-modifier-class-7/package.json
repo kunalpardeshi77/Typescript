@@ -1,0 +1,15 @@
+{
+  "name": "overriding-properties-and-protected-modifier-class-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "node ./dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
