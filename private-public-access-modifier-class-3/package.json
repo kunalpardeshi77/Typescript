@@ -1,0 +1,15 @@
+{
+  "name": "private-public-access-modifier-class-3",
+  "version": "1.0.0",
+  "description": "providing security b private modifier",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "node ./dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
